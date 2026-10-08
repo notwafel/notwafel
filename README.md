@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm notwafel</h1>
 <h3 align="center">A passionate Fullstack develompent</h3>
 
+
+<p align="center">
 - 🔭 I’m currently finding bugs in **Signal**
 
 - 🌱 I’m currently learning **Courses and many languages**
 
 - ⚡ Fun fact **I'm lazy bitch xd**
-
-<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
