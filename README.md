@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm notwafel</h1>
-<h3 align="center">A passionate Fullstack development</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
 
 <p align="center">
