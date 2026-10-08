@@ -3,11 +3,9 @@
 
 
 <p align="center">
-- 🔭 I’m currently finding bugs in **Signal**
-
-- 🌱 I’m currently learning **Courses and many languages**
-
-- ⚡ Fun fact **I'm lazy bitch xd**
+  🔭 I’m currently finding bugs in <b>Signal</b><br>
+  🌱 I’m currently learning <b>Courses and many languages</b><br>
+  ⚡ Fun fact: <b>I'm lazy bitch xd</b>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
